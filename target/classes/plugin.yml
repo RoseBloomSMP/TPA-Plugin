@@ -1,0 +1,10 @@
+name: RoseBloomTPA
+author: Vxndicate
+version: 1.0
+main: xyz.vxndicate.rosebloomtpa.main
+
+commands:
+  tpa:
+  tpaccept:
+  tpahere:
+  tpaall:
